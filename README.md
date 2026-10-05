@@ -14,9 +14,3 @@ cross-sections, check volume and balance, and export it for the CNC or as STEP, 
 
 To update, download the newest installer and run it over the old one. Your boards are
 ordinary files and are not touched.
-
-## Feedback
-
-Boardshaper is in active development, so expect rough edges. If something breaks or is hard
-to use, [open an issue](https://github.com/johedlund/boardshaper-releases/issues) and include
-the version from the top bar.
